@@ -26,7 +26,7 @@
 
 ### 🔗 Live Demo
 
-- 👉 Click here to view the live project
+- 👉 [Click here to view the live project](https://check-weather-000.netlify.app/)
 
  
 
